@@ -1,0 +1,33 @@
+*{margin: 0px; padding: 0px;
+}
+.clearfix{
+    clear: both;
+    
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.w-50{
+    background-color: aquamarine;
+    width: 50%;
+}
+.w-33{
+    background-color: yellow;
+    width: 33.33%;
+}
+header ,main {
+    margin-bottom: 100px;
+}
+
+.w-16{
+    background-color: blueviolet;
+    width: 16.66%;
+}
+
+.w-25{
+    background-color: chocolate;
+    width: 25%;
+}

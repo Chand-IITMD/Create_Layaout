@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 1px solid red;
+}
+.float-left{
+    float: left;
+    width: 50%;
+}
+.float-right{
+    float: right;
+    width: 49.5%;
+}
+.float-left1{
+    float: left;
+    width: 33%;
+}
+.float-right1{
+    float: right;
+    width: 33.3%;
+}
+.first{
+    float: left;
+    width: 49.6%;
+}
+.second{
+    float: right;
+    width: 49.5%;
+}
+.float-left2{
+    float: left;
+    width: 49.5%;
+}
+.float-right2{
+    float: right;
+    width: 49.5%;
+}
+.float-left3{
+    float: left;
+    width: 49.5%;
+}
+.float-right3{
+    float: right;
+    width: 49.5%;
+}
+.float-left4{
+    float: left;
+    width: 32.7%;
+}
+.float-right4{
+    float: right;
+    width: 32.9%;
+}
+
+.float-left5{
+    float: left;
+    width: 16.2%;
+}
+.float-right5{
+    float: right;
+    width: 16.5%;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 1px solid red;
+}
+.clearfix{
+    clear: both;
+}
+
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.w-30{
+    width: 32.8%;
+}
+.w-50{
+    width: 49.5%;
+}
+
+.w-25{
+    width: 24.6%;
+}
+
+header,main{
+    height: 200px;
+}
+.con.-left{
+    padding: 25px;
+    margin: 10px;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.float-left{
+    background-color: antiquewhite;
+    float: left;
+    width: 49.9%;
+}
+.float-right{
+    background-color: aquamarine;
+    float: right;
+    width: 49.9%;
+}
+.float-left-1{
+    background-color: blueviolet;
+    float: left;
+    width: 24.9%;
+}
+.float-right-1{
+    background-color: cadetblue;
+    float: right;
+    width: 24.9%
+}
+footer{
+    width: 100%;
+    
+    background-color: burlywood;
+}

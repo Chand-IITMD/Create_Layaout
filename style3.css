@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.float-left{
+    background-color: antiquewhite;
+    float: left;
+    width: 49.6%;
+
+}
+.float-right{
+    background-color: rgb(255, 111, 0);
+    float: right;
+    width: 49.9%;
+    
+}
+.float-left1{
+    background-color: aqua;
+    float: left;
+    width: 39.6%;
+    
+}
+.float-right1{
+    background-color: yellow;
+    float: right;
+    width: 20%;
+    
+}
+.float-left2{
+    background-color: burlywood;
+    float: left;
+    width: 33%;
+    
+}
+.float-right2{
+    background-color: cadetblue;
+    float: right;
+    width: 33.3%;
+    
+}
+
+.float-left3{
+    background-color: coral;
+    float: left;
+    width: 24.6%;
+    
+}
+.float-right3{
+    background-color:darkcyan;
+    float: right;
+    width: 25%;
+    
+}

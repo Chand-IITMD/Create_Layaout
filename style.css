@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+   
+}
+.clearfix{
+    clear: both;
+}
+
+.float-left{
+    background-color: rgb(16, 227, 129);
+    float: left;
+    width: 49.5%;
+}
+.float-right{
+    background-color: rgb(243, 144, 16);
+    float: right;
+    width: 49.5%;
+   
+}
+
+.float-left-m-first{
+    background-color: rgb(16, 227, 129);
+    float: left;
+    width: 25%;
+}
+.float-right-m-first{
+    background-color: rgb(243, 144, 16);
+    float: right;
+    width: 74.5%;
+   
+}
+
+.float-left-1{
+    background-color: brown;
+    float: left;
+    width: 33.1%;
+}
+.float-right-1{
+    background-color: cadetblue;
+    float: right;
+    width: 33.1%;
+}
+.float-left-m{
+    background-color: darkmagenta;
+    float: left;
+    width: 19.8%
+}
+.float-right-m{
+    background-color: gold;
+    float: right;
+    width: 19.75%;
+}
+.float-left-f{
+    background-color: lightslategray;
+    float: left;
+    width: 24.7%
+}
+.float-right-f{
+    background-color: mediumvioletred;
+    float: right;
+    width: 25%;
+}
+.f-second{
+    background-color: forestgreen;
+}
